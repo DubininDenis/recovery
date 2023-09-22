@@ -6,7 +6,7 @@
 
 `Решение........`
 
-
+[Файл cisco_PKT](https://github.com/DubininDenis/recovery/blob/main/hsrp_advanced.pkt)
 
 
 ![1](https://github.com/DubininDenis/recovery/blob/main/1.png)
@@ -18,6 +18,7 @@
 
 `Решение........`
 
+[Файл настройки keepalived](https://github.com/DubininDenis/recovery/blob/main/keepalived.conf)
 
 ```
 Поле для вставки кода...
@@ -28,22 +29,15 @@ else
         sudo systemctl stop keepalived
 fi
 
+
 ```
 
+
 `При необходимости прикрепитe сюда скриншоты
+
 ![3](https://github.com/DubininDenis/recovery/blob/main/3.png)
 ![4](https://github.com/DubininDenis/recovery/blob/main/4.png)
 ![5](https://github.com/DubininDenis/recovery/blob/main/5.png)`
-
-
-
-
-
-
-
-
-
-
 
 
 ---
